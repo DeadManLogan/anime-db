@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: 0;
+          box-sizing: 0;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+header {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+header h1 {
+  color: aquamarine;
+  font-size: 36px;
+  font-weight: 400;
+  text-align: center;
+}
+
+header h1 strong {
+  color: #313131;
+}
+/*# sourceMappingURL=main.css.map */
